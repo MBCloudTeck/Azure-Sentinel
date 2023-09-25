@@ -1544,7 +1544,8 @@
             "CommonSecurityLog"
         ],
         "dataConnectorsDependencies": [
-            "CyberArk"
+            "CyberArk",
+			"CyberArkAma"
         ],
         "previewImagesFileNames": [
             "CyberArkActivitiesWhite.PNG",
@@ -2826,7 +2827,8 @@
             "CommonSecurityLog"
         ],
         "dataConnectorsDependencies": [
-            "TrendMicroApexOne"
+            "TrendMicroApexOne",
+			"TrendMicroApexOneAma"
         ],
         "previewImagesFileNames": [
             "TrendMicroApexOneBlack.png",
@@ -5029,7 +5031,7 @@
         ],
         "dataConnectorsDependencies": [
             "CyberArkEPM"
-        ],
+			],
         "previewImagesFileNames": [
             "CyberArkEPMBlack.png",
             "CyberArkEPMWhite.png"
